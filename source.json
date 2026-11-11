@@ -1,0 +1,36 @@
+{
+  "name": "Yoi",
+  "identifier": "app.yoi.source",
+  "sourceURL": "https://raw.githubusercontent.com/ollerexpositomartin/yoi-releases/main/source.json",
+  "iconURL": "https://raw.githubusercontent.com/ollerexpositomartin/yoi-releases/main/icon.png",
+  "news": [],
+  "apps": [
+    {
+      "name": "Yoi",
+      "bundleIdentifier": "app.yoi",
+      "developerName": "Martín",
+      "subtitle": "Tu gemelo digital",
+      "localizedDescription": "Entreno, nutrición, sueño y salud en una app personal.",
+      "iconURL": "https://raw.githubusercontent.com/ollerexpositomartin/yoi-releases/main/icon.png",
+      "tintColor": "#FF6B35",
+      "category": "health",
+      "versions": [
+        {
+          "version": "0.3.2",
+          "buildVersion": "837",
+          "date": "2026-11-11",
+          "localizedDescription": "Crear cuenta funciona, el splash ya no enseña el login, al entrar llegan tus datos, la foto y los archivos se guardan en la nube, sustituir ejercicio en el entreno, pesos que aprenden de tus series, Health Connect arreglado, sueño más fiel, la WHOOP sigue conectada en Android con la app cerrada, el escritorio se actualiza solo y Yoi responde mejor.",
+          "downloadURL": "https://github.com/ollerexpositomartin/yoi-releases/releases/download/v0.3.2/yoi-0.3.2.ipa",
+          "size": 18232186,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.healthkit"
+        ],
+        "privacy": {}
+      }
+    }
+  ]
+}
