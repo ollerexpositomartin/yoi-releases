@@ -16,6 +16,15 @@
       "category": "health",
       "versions": [
         {
+          "version": "0.5.21",
+          "buildVersion": "1043",
+          "date": "2026-11-16",
+          "localizedDescription": "El «+» del buscador añade el alimento sin abrir los gramos; los recientes caducan a los 30 días; «Yoi sugiere» ya no desaparece mientras piensa; el estrés sale aunque anoche no se midiera el sueño.",
+          "downloadURL": "https://github.com/ollerexpositomartin/yoi-releases/releases/download/v0.5.21/yoi-0.5.21.ipa",
+          "size": 19856341,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.3.2",
           "buildVersion": "837",
           "date": "2026-11-11",
